@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gisel! Nice to meet you!
-- 🌱 I’m currently learning Java, SQL, Javascript
+- 👋 Hi, I’m Gisel! Nice to meet you! I am a Assoc. Software Engineer expanding my knowledge through projects 📚
+- 🌱 I’m currently learning Python,Java, SQL, Javascript
 - 🎓 Gradue from FIU in Fall 24'
 
 <!---
